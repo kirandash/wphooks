@@ -9,4 +9,5 @@ require_once('examples/wp_title.php');
 require_once('examples/body_class_example.php');
 require_once('examples/manage_posts_columns_example.php');
 
+require_once('examples/do_action_example.php');
 ?>

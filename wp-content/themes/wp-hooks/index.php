@@ -4,6 +4,13 @@
 
 <body <?php body_class(); ?>>
 Welcome
+
+<footer>
+
+<?php custom_footer(); ?>
+
+</footer>
+
 </body>
 
 <?php wp_footer(); ?>
