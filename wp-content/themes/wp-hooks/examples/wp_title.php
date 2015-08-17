@@ -17,8 +17,6 @@ function custom_wp_title( $title, $sep ) {
 } 
 add_filter( 'wp_title', 'custom_wp_title', 20, 2 );
 
-
-
 // https://tommcfarlin.com/filter-wp-title/
 
 ?>
